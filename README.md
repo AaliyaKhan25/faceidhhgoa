@@ -1,4 +1,4 @@
-# 🌴 Hacker House Goa 2026 — Task 3
+# 🌴 HHGOA 2026 — Task 3 [Face Identification & Blockchain Verification]
 
 ## 📌 Overview
 An automated end-to-end pipeline built for **Hacker House Goa 2026** that extracts local photo EXIF metadata, executes live visual reverse web searches for social profiles, and anchors cryptographic proof on the Ethereum Sepolia blockchain.
