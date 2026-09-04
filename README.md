@@ -86,8 +86,9 @@ Interact with the deployed contract's `verifyMatch` view function using the payl
 
 ---
 
-⚠️ Known Limitations & Troubleshooting
-📈 SerpApi Rate Limits: Free-tier API accounts are limited to 250 queries per month. If you receive a 429 error, check your dashboard usage.
-⏱️ Sepolia Block Latency: On-chain write confirmation times depend on testnet block times (~12–15 seconds). The UI may hang briefly while waiting for the transaction receipt.
-🖼️ EXIF Stripping: Photos shared via social media platforms (e.g., WhatsApp, Discord, Instagram) usually have EXIF metadata stripped prior to processing. Use original camera files for best results.
-🔌 RPC Node Failures: If your Alchemy or Infura RPC endpoint throws connection errors, ensure your API key is active and your network allows WebSocket/HTTP connections to external nodes.
+### ⚠️ Known Limitations & Troubleshooting
+ 📈 SerpApi Rate Limits: Free-tier API accounts are limited to 250 queries per month. If you receive a 429 error, check your dashboard usage.
+ ⏱️ Sepolia Block Latency: 
+ On-chain write confirmation times depend on testnet block times (~12–15 seconds). The UI may hang briefly while waiting for the transaction receipt.
+ 🖼️ EXIF Stripping: Photos shared via social media platforms (e.g., WhatsApp, Discord, Instagram) usually have EXIF metadata stripped prior to processing. Use original camera files for best results.
+ 🔌 RPC Node Failures: If your Alchemy or Infura RPC endpoint throws connection errors, ensure your API key is active and your network allows WebSocket/HTTP connections to external nodes.
